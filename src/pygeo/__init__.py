@@ -1,1 +1,1 @@
-print(f"hello {__name__} ")
+print(f"hello {__name__}. noice day, innnit?")

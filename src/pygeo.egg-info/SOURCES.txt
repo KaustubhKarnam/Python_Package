@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/pygeo/__init__.py
+src/pygeo.egg-info/PKG-INFO
+src/pygeo.egg-info/SOURCES.txt
+src/pygeo.egg-info/dependency_links.txt
+src/pygeo.egg-info/top_level.txt
